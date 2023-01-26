@@ -25,7 +25,7 @@ docker-compose up
 You can get in touch with me on my LinkedIn Profile:
 
 #### Muhmmad Ahmad
-[![LinkedIn Link](https://img.shields.io/badge/Connect-saadhaxxan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Ahmad-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/)
 
 
